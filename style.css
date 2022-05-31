@@ -1,0 +1,80 @@
+.apgaubiamas{
+    display: flex;
+    background-color: white;
+    border: 0px;
+    text-align: center;
+   
+   
+    
+    }
+    .raide1 {
+        flex-direction: row;
+        background-color: rgb(102, 107, 110);
+        color:rgb(241, 243, 240);
+        height: 70px;
+        width:10%;
+        border: 1px solid rgb(247, 247, 243);
+        line-height: 75px;
+        font-size: 35px;
+        
+    }
+
+    .raide2{
+        flex-direction: row;
+        background-color: rgb(94, 168, 127);
+        color:rgb(241, 243, 240);
+        height: 70px;
+        width:10%;
+        border: 1px solid rgb(247, 247, 243);
+        line-height: 75px;
+        font-size: 35px;
+    }
+    .raide3{
+        flex-direction: row;
+        background-color: rgb(94, 168, 127);
+        color:rgb(241, 243, 240);
+        height: 70px;
+        width:10%;
+        border: 1px solid rgb(247, 247, 243);
+        line-height: 75px;
+        font-size: 35px;
+    }
+
+    .raide4{
+        flex-direction: row;
+        background-color: rgb(94, 168, 127);
+        color:rgb(241, 243, 240);
+        height: 70px;
+        width:10%;
+        border: 1px solid rgb(247, 247, 243);
+        line-height: 75px;
+        font-size: 35px;
+    }
+    .raide5{
+        flex-direction: row;
+        background-color: rgb(94, 168, 127);
+        color:rgb(241, 243, 240);
+        height: 70px;
+        width:10%;
+        border: 1px solid rgb(247, 247, 243);
+        line-height: 75px;
+        font-size: 35px;
+    }
+    .raide6{
+        flex-direction: row;
+        background-color: rgb(94, 168, 127);
+        color:rgb(241, 243, 240);
+        height: 70px;
+        width:10%;
+        border: 1px solid rgb(247, 247, 243);
+        line-height: 75px;
+        font-size: 35px;
+    }
+
+    .apgaubimas1{
+        border: 2px solid rgb(136, 134, 134);
+        padding: 1em;
+        padding-right: 0x;
+        width:90%;
+        border-radius: 30px;
+    }
